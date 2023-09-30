@@ -20,3 +20,12 @@ console.log(item_prices)
 
 in_stock.push(false);
 console.log(in_stock)
+
+item_names.pop();
+console.log(item_names)
+
+item_prices.pop();
+console.log(item_prices)
+
+in_stock.pop();
+console.log(in_stock)
